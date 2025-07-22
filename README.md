@@ -57,8 +57,7 @@ Responsive layout handled via **CSS Flexbox** and **media queries**.
 
 ## 📡 Live Demo
 
-🔗 **[View App Live](https://your-netlify-link.netlify.app/)**  
-<!-- Replace this with your actual Netlify or GitHub Pages link -->
+🔗 **[View App Live]( https://megha-weather-app.netlify.app/)**  
 
 ---
 
